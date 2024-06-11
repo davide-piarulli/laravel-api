@@ -1,6 +1,4 @@
-Ciao ragazzi,
-continuiamo a lavorare sul codice dei giorni scorsi, ma in una nuova repo.
-L’esercizio di oggi è suddiviso in milestone ed è importante che ne seguiate l’ordine.
+Continuazione dell'esercizio passato, con nuove milestone.
 
 # Milestone 1
 
